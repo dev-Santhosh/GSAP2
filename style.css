@@ -84,3 +84,10 @@ img{
     right: 2%;
     border-radius: 30px;
 }
+#main>h5{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%,0);
+    font-size: 25px;
+}
